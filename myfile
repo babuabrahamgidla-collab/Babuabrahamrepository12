@@ -1,0 +1,7 @@
+PO Number,Supplier,Type,Status,Total amount,Grand Total,Severity,Age in days,Line Items,Alerts,Approval History
+1002,XYZ Suppliers,Material,Submitted,8200,9266.0,Medium,0,5,Amount over 5000 and hence needs Director approval,PO submitted on 2026-09-09 22:34:08; Material PO is approved on 2026-09-09 22:34:08
+1001,ABC Suppliers,Material,Approved,1990,2248.7,Low,0,5,,PO submitted on 2026-09-09 22:34:08; Material PO is approved on 2026-09-09 22:34:08
+2001,BBC Services,Service,Approved,2890,3265.7,Low,0,4,,PO submitted on 2026-09-09 22:34:08; Service PO is approved on 2026-09-09 22:34:08
+2002,YYZ Services,Service,Approved,2890,3265.7,Low,0,4,,PO submitted on 2026-09-09 22:34:08; Service PO is approved on 2026-09-09 22:34:08
+3001,CBC ExpressSuppliers,Emergency,Approved,1830,2067.9,Low,0,5,,PO submitted on 2026-09-09 22:34:08; Emergency PO is approved on 2026-09-09 22:34:08
+3002,XXY Suppliers,Emergency,Approved,1830,2067.9,Low,0,5,,PO submitted on 2026-09-09 22:34:08; Emergency PO is approved on 2026-09-09 22:34:08
