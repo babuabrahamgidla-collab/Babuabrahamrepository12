@@ -1,4 +1,4 @@
-print("Hello World 4 Sep. afternoon")
+print("Hello, World!, 4 Sep. afternoon")
 
 class MySmartHome():
     def __init__(self, devicename):

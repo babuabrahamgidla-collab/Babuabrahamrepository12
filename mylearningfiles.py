@@ -2,8 +2,8 @@ import json
 from datetime import datetime
 import csv
 
-print("Hello World")
-print("Hello World, world of files in Python, 12Sep and Sep14")
+print("Hello, world!")
+print("Hello, world!, hello to world of files in Python, 12Sep and Sep14")
 
 # ---------------------------------------------------------
 # LOGGING FUNCTION (works perfectly)

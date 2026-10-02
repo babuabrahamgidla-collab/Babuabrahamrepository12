@@ -1,5 +1,5 @@
-print("Hello World")
-print("Hello OOPs World 10sep")
+print("Hello, world!")
+print("Hello, OOPs world!, 10sep")
 import datetime
 import csv
 

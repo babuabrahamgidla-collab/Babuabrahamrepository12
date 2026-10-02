@@ -1,3 +1,40 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:system"
 }
+
+
+Question 5
+A software development team is building a financial planning application. They want to incorporate features that help users track expenses, set budgets, and receive alerts for unusual spending activity. Which of the following aspects of this application would rely heavily on the use of conditional statements and loops in Python? Select all that apply.
+
+
+Command
+
+What it does
+
+len(list): 
+Tells you how many things are in the list.
+
+list.append(x): 
+Adds x to the end of the list.
+
+list.insert(i, x):
+Adds x at position i in the list.
+
+list.remove(x):
+Removes the first x from the list.
+
+list.sort():
+Arranges the list in order.
+
+list.reverse():
+Reverses the order of the items in the list.
+
+list.count(x):
+Counts how many times x appears in the list.
+
+x in list:
+Checks if x is in the list.
+
+list.index(x):
+Tells you the position of the first x in the list.
+

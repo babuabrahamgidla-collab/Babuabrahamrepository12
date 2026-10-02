@@ -1,5 +1,5 @@
-print("Hello World")
-print("Hello OOPs World of Smart Home System")
+print("Hello, World!")
+print("Hello, OOPs World!, my Smart Home System")
 
 class SmartDevice:
     def __init__(self, devicename):

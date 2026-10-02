@@ -1,5 +1,5 @@
-print("Hellow World")
-print("Hello OOPS World")
+print("Hello, world!")
+print("Hello, OOPS world!")
 
 class Car:
         def __init__(self, make, model,year):
